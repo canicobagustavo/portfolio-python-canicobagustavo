@@ -34,7 +34,7 @@ O notebook de squeezing com dissipação foi ajustado para passar os operadores 
 - [EP3 — gestão de estoque](projetos/programacao/ep3_gestao_estoque/ep3_gestao_estoque.ipynb): mantida a versão mais recente do código, removidas iterações duplicadas e corrigida a condição de execução principal.
 - [EP2 — rascunho em desenvolvimento](projetos/programacao/rascunhos/EP2_em_desenvolvimento.ipynb): preservado para referência, mas **não está pronto para execução** e não deve ser apresentado como projeto concluído.
 
-Os arquivos CSV usados por EP2 e EP3 não estavam no ZIP recebido. Eles não foram inventados nem adicionados ao repositório.
+Os arquivos CSV usados por EP2 e EP3 não estão mais disponíveis. Eles não foram inventados nem adicionados ao repositório.
 
 ## Como executar
 
@@ -72,10 +72,3 @@ projetos/
 │   └── rascunhos/
 └── simulacoes-quanticas/
 ```
-
-## Antes de publicar
-
-- Confira se você tem autorização para compartilhar todos os dados experimentais e materiais acadêmicos.
-- Não adicione dados pessoais, arquivos privados ou planilhas que não possam ser redistribuídas.
-- Revise os READMEs específicos para saber quais notebooks dependem de arquivos externos.
-- Nenhuma licença foi escolhida automaticamente. Se quiser permitir reutilização do código por terceiros, escolha uma licença antes de publicar.
