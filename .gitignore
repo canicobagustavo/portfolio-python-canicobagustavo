@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados locais e arquivos gerados
+dados_locais/
+novo_inventario.csv
+novo_lojas.csv
+reposicao_estoque.csv
