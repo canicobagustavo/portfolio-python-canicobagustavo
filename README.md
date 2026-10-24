@@ -2,6 +2,17 @@
 
 Repositório de projetos acadêmicos e estudos desenvolvidos com Python. O objetivo é reunir os trabalhos em uma estrutura clara, documentar suas dependências e distinguir projetos prontos para exploração de exercícios que ainda precisam de dados ou revisão.
 
+## Competências e tecnologias
+
+- **Análise de dados:** análise exploratória, estatísticas descritivas, tratamento de valores ausentes e criação de indicadores.
+- **Visualização:** construção de gráficos para explorar e comunicar padrões nos dados.
+- **Python para dados:** uso de bibliotecas científicas e notebooks Jupyter.
+- **Análise quantitativa:** ajuste de curvas e interpretação de resultados experimentais.
+
+**Tecnologias do repositório:** Python, Jupyter, NumPy, pandas, Matplotlib, SciPy e QuTiP.
+
+As bibliotecas utilizadas variam conforme o projeto.
+
 ## Projetos em destaque
 
 ### 1. Análise exploratória de crédito PJ
