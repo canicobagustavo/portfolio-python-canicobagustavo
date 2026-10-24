@@ -1,7 +1,7 @@
 # Registro de revisão
 
 ## Base de trabalho
-O arquivo `CODIGOS 2.0.zip` recebido continha 9 notebooks. O conteúdo foi organizado em pastas e recebeu documentação em português.
+O conteúdo foi organizado em pastas e recebeu documentação em português.
 
 ## Ajustes aplicados
 - Criada estrutura de pastas por área e documentação principal.
